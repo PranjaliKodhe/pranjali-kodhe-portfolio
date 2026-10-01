@@ -1,0 +1,12 @@
+{
+  "name": "software-engineer-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -l 8000",
+    "dev": "npx serve . -l 8000"
+  },
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
